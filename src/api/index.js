@@ -1,0 +1,1 @@
+export const API = 'https://647afee9d2e5b6101db0b867.mockapi.io/thunk'
